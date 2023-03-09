@@ -12,9 +12,9 @@
     <div class="header">
         <p>Witajcie na prostej stronie do logowania</p>
         <ul>
-            <li><a href="">Zarejestruj się</a></li>
-            <li><a href="">Zaloguj się</a></li>
-            <li><a href="">Pomoc</a></li>
+            <li><a href="acction/register.php">Zarejestruj się</a></li>
+            <li><a href="acction/login.php">Zaloguj się</a></li>
+            <li><a href="help.php">Pomoc</a></li>
         </ul>
     </div>
     <div class="main_content">
