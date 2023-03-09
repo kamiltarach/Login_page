@@ -11,13 +11,13 @@
 <body>
     <div class="header">
         <p>Witajcie na prostej stronie do logowania</p>
-        <ul>
-            <li><a href="acction/register.php">Zarejestruj się</a></li><br><br>
-            <li><a href="acction/login.php">Zaloguj się</a></li><br><br>
-            <li><a href="help.php">Pomoc</a></li><br><br>
-        </ul>
     </div>
     <div class="main_content">
+        <ul class="nav">
+            <label><li><a href="acction/register.php">Zarejestruj się</a></li><br><br></label>
+            <label><li><a href="acction/login.php">Zaloguj się</a></li><br><br></label>
+            <label><li><a href="help.php">Pomoc</a></li><br><br></label>
+        </ul>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde illum repellat beatae nam necessitatibus commodi, nulla neque voluptatum id, a quos repellendus accusamus ducimus vero ea aperiam doloremque quidem! Ipsum?</p>
     </div>
     <div class="footer">
