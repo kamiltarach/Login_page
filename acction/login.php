@@ -10,5 +10,6 @@
 </head>
 <body>
     <h1>Strona do logowania</h1>
+    <a href="../index.php">Powrót do strony głównej</a>
 </body>
 </html>

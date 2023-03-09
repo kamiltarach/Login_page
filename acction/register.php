@@ -10,5 +10,6 @@
 </head>
 <body>
     <h1>Strona pod Rejestracji</h1>
+    <a href="../index.php">Powrot do strony głównej</a>
 </body>
 </html>
