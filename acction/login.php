@@ -9,7 +9,21 @@
     <link rel="stylesheet" href="../css/login.css">
 </head>
 <body>
-    <h1>Strona do logowania</h1>
-    <a href="../index.php">Powrót do strony głównej</a>
+    <div class="header">
+        <p>Witajcie na prostej stronie do logowania</p>
+    </div>
+    <div class="sec_header">
+        <h1>Strona do logowania</h1>
+    </div>
+    <div class="form">
+        <form class="box" action="submiter.php" method="POST">
+            <input type="text" name="email" class="email"><br><br>
+            <input type="password" name="pass" class="pass"><br><br>
+            <input type="submit" value="Zaloguj się"><br><br>
+        </form>
+    </div>
+    <div class="footer">
+        <a href="../index.php">Powrót do strony głównej</a>
+    </div>
 </body>
 </html>
