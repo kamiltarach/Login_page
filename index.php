@@ -14,14 +14,20 @@
     </div>
     <div class="main_content">
         <ul class="nav">
-            <label><li><a href="acction/register.php">Zarejestruj się</a></li><br><br></label>
-            <label><li><a href="acction/login.php">Zaloguj się</a></li><br><br></label>
-            <label><li><a href="help.php">Pomoc</a></li><br><br></label>
+            <label><li><a href="acction/register.php">Zarejestruj się</a></li><br></label>
+            <label><li><a href="acction/login.php">Zaloguj się</a></li><br></label>
+            <label><li><a href="help.php">Pomoc</a></li><br></label>
+            <label><li><a href=""></a></li><br></label>
         </ul>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde illum repellat beatae nam necessitatibus commodi, nulla neque voluptatum id, a quos repellendus accusamus ducimus vero ea aperiam doloremque quidem! Ipsum?</p>
+        <div class="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Unde illum repellat beatae nam necessitatibus commodi, nulla neque voluptatum id,
+        a quos repellendus accusamus ducimus vero ea aperiam doloremque quidem! Ipsum?</div>
     </div>
+    
     <div class="footer">
-        <p>Autor: Kamil Tarach | Email: <a href="mailto:kamiltarach.kt@gmail.com">kamiltarach.kt@gmail.com</a></p>
+        <p>Autor: Kamil Tarach | Email:
+            <a href="mailto:kamiltarach.kt@gmail.com">kamiltarach.kt@gmail.com</a>
+        </p>
     </div>
 </body>
 </html>
