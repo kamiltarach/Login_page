@@ -54,11 +54,16 @@ body{
     color: black;
 }
 .main_content ul li a:hover{
-    background-color: black;
+    background: animate 1s linear infinite;
     color: white;
     font-size: 40px;
     padding: 15px;
     transition: all 0.5s;
+}
+@keyframes animate{
+    100%{
+        filter: hue-rotate(360deg);
+    }
 }
 .main_content .lorem{
     float: left;
