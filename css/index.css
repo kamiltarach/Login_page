@@ -54,7 +54,7 @@ body{
     color: black;
 }
 .main_content ul li a:hover{
-    background: animate 1s linear infinite;
+    animation: animate 1s linear infinite;
     color: white;
     font-size: 40px;
     padding: 15px;
