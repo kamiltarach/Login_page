@@ -16,7 +16,7 @@
         <h1>Strona do logowania</h1>
     </div>
     <div class="form">
-        <form class="box" action="submiter.php" method="POST">
+        <form class="box" action="includes/submiter.inc.php" method="POST">
             <input type="text" name="email" class="email"><br><br>
             <input type="password" name="pass" class="pass"><br><br>
             <input type="submit" value="Zaloguj się"><br><br>
